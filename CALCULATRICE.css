@@ -1,0 +1,102 @@
+body {
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: url(https://zupimages.net/up/22/22/b8bb.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 0 10px;
+    text-align: center;
+    -moz-background-size: 0;
+}
+h1{
+    color:#454545;
+    text-align: center;
+    text-shadow:0px 7px 10px #404040;
+}
+table{
+    border-collapse: collapse;
+}
+#container {
+    font-size: 32px;
+    margin: auto;
+    width: 240px;
+}
+
+#Zalculatrice, #number {
+    border-radius: 6px;
+}
+
+#calculatrice {
+    margin: 0 auto;
+    background-color: #494646;
+    border: 1px solid #3d3d3d;
+    width: 279px;
+    box-shadow: 0 7px 10px ;
+}
+
+#header {
+    padding: 3px;
+    
+
+    
+}
+
+input#number{
+    text-align: right;
+    background-color: #070707;
+    border: 7px solid ;
+    border-color: #070707;
+    color: #f3efef ;
+    font-size:20px;
+    padding :5px;
+    box-shadow: 0 7px 10px rgb(12, 12, 12) ;
+    margin-bottom:5px;
+    
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#container {
+    font-size: larger;
+    margin:auto;
+    width: 250px;
+    
+}
+#body {
+    padding: 0 10px;
+}
+.fond{
+    background-color: #3d3d3d;
+    width:250px;
+    padding: 5px;
+    border-radius: 2%;
+}
+.buttons {
+    cursor: default;
+    text-align: center;
+    padding: 7px 10px;
+    font-size: 20px;
+    border-top: 5px;
+    text-shadow: 0 -1px 1px rgb(16, 15, 15);
+    color: rgb(248, 248, 238);
+    font-weight: bold;
+    display: inline-block;
+    width:34px ;
+    margin-bottom: 10px;
+    background: linear-gradient(#5F5F5F 0%, #404040 100%);
+    box-shadow: 0 2px 6px #070707;
+    margin-bottom: 5px;
+    margin-top:5px;
+
+}
+
+.buttons:hover  {
+    background: linear-gradiant(#79D144 0%, #50A61F 100%);
+    border-top: 1px solid #9add73;
+    text-shadow: 0 -1px 1px #008000;
+    background-color: #50A61F;
+}
